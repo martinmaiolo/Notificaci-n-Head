@@ -1,0 +1,12 @@
+#barra-noti{
+background: #2c3644;
+color: #fff;
+font-size:16px;
+position: fixed;
+z-index:1;
+top: 0px;
+left: 0px;
+width: 100% !important;
+padding: 10px 0px;
+text-align: center;}
+#barra-noti a {color: #ffffff; border-bottom: 1px dotted;}
